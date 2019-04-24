@@ -1,4 +1,4 @@
-# React Native Install & Setup Guide -
+# React Native Install & Setup Guide 
 Quick Install and Setup React Native on Ubuntu Guide
 
 ## [how to install React Native on Linux Machine](https://androidwave.com/install-and-setup-react-native-on-ubuntu/)
